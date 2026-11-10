@@ -4,5 +4,5 @@
 
 \### Group Name: Not assigned
 
-\### Group Members: Saed Samuel Nimri — no partner yet
+\### Group Members: Saed Samuel Nimri
 
